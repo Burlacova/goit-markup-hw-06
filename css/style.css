@@ -144,7 +144,7 @@ h1, h2, h3, p {
 
     display: block;
     width: 100%;
-    margin-bottom: 28px;
+    margin-bottom: 10px;
 
 }
 
@@ -239,6 +239,7 @@ h1, h2, h3, p {
 .policy {
 
     display: flex;
+    justify-content: center;
 
     font-style: normal;
     font-weight: normal;
@@ -894,17 +895,18 @@ h1, h2, h3, p {
 } 
 .footer-form {
     display: flex;
-    margin-left: 93px;
+    
 }
 
 .formf {
     display: flex;
     flex-direction: column;
+    margin-left: 93px;
 
 }
 .formf p {
     margin-bottom: 20px;
-    margin-left: 93px;
+    
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
